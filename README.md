@@ -1,4 +1,4 @@
-# Vote App Frontend  2
+# Vote App Frontend
 
 This is a frontend app, part of [Example Voting App](https://github.com/schoolofdevops/example-voting-app).  
 
